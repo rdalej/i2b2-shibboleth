@@ -1,0 +1,1 @@
+JSF application that checks for user Shibboleth credentials before allowing access to the i2b2 web client.  If the user is not currently logged in, then they will be redirected to their local Shibboleth log-in page.  The user's unique identifier from their local identity provider is stored as the i2b2 user.
